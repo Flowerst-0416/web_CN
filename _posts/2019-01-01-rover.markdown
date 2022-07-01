@@ -7,10 +7,10 @@ news: http://seb199.me.vt.edu/zuo/research-programs/
 authors: "Energy Harvesting and Mechatronics Research Laboratory"
 categories: research
 ---
-Design work:
-    • Design the Power Take-Off System for the fish farm with 300 kN load input force to generate 35 kW power.
-    • Design and build the Power Take-Off System scale down version for verifying the feasibility of the design.
-    • Do the marketing research for a similar part and select the component for the three designs.
-Technical Work:
-    • Complete the CAD drawing by Solidworks and do the force analysis for each component to make them handle the large load input.
-    • Calculate the power level, bend stress and shear stress for each design to make sure all the versions can reach the expected power level.
+Design work: /n
+    • Design the Power Take-Off System for the fish farm with 300 kN load input force to generate 35 kW power. /n
+    • Design and build the Power Take-Off System scale down version for verifying the feasibility of the design. /n
+    • Do the marketing research for a similar part and select the component for the three designs. /n
+Technical Work: /n
+    • Complete the CAD drawing by Solidworks and do the force analysis for each component to make them handle the large load input. /n
+    • Calculate the power level, bend stress and shear stress for each design to make sure all the versions can reach the expected power level. /n
