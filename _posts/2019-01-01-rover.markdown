@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Iris Lunar Rover"
-time: "January 2019 - March 2020"
-image: /images/iris.png
-news: https://www.cmu.edu/news/stories/archives/2020/may/iris-meets-milestone.html
-video: https://www.youtube.com/watch?v=ReQWT9SskYw&feature=emb_logo
-authors: "CMU Planetory Robotics Lab"
+title:  "Self-Reactive Marine Energy Converter to Power Ocean Aquaculture"
+time: "Aug. 2020 – May. 2021"
+image: /images/sea_1.png
+news: http://seb199.me.vt.edu/zuo/research-programs/
+authors: "Energy Harvesting and Mechatronics Research Laboratory"
 categories: research
 ---
-Iris is an ultra light weight lunar rover designed by CMU students. It will land on the moon in the fall of 2021. I was in charge of designing the ground operation code translation chart, building up modules and coding for flight software, as well as designing the teleoperation software structure.
+Design work:
+    • Design the Power Take-Off System for the fish farm with 300 kN load input force to generate 35 kW power.
+    • Design and build the Power Take-Off System scale down version for verifying the feasibility of the design.
+    • Do the marketing research for a similar part and select the component for the three designs.
+Technical Work:
+    • Complete the CAD drawing by Solidworks and do the force analysis for each component to make them handle the large load input.
+    • Calculate the power level, bend stress and shear stress for each design to make sure all the versions can reach the expected power level.
