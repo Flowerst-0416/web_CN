@@ -9,10 +9,10 @@ categories: research
 ---
 **This project aimed to design a system that generates electricity by using ocean wave energy for an intelligent fish farm.** <br />
 **Design work:**<br />
-    • Design the Power Take-Off System for the fish farm with 300 kN load input force to generate 35 kW power.<br />
-    • Design and build the Power Take-Off System scale down version for verifying the feasibility of the design.<br />
-    • Do the marketing research for a similar part and select the component for the three designs.<br />
+    - Design the Power Take-Off System for the fish farm with 300 kN load input force to generate 35 kW power.<br />
+    - Design and build the Power Take-Off System scale down version for verifying the feasibility of the design.<br />
+    - Do the marketing research for a similar part and select the component for the three designs.<br />
 **Technical Work:**<br />
-    • Complete the CAD drawing by Solidworks and do the force analysis for each component to make them handle the large load input.<br />
-    • Calculate the power level, bend stress and shear stress for each design to make sure all the versions can reach the expected power level.<br />
+    - Complete the CAD drawing by Solidworks and do the force analysis for each component to make them handle the large load input.<br />
+    - Calculate the power level, bend stress and shear stress for each design to make sure all the versions can reach the expected power level.<br />
 
