@@ -8,5 +8,6 @@ authors: "Energy Harvesting and Mechatronics Research Laboratory"
 categories: research
 ---
 **This project aimed to design a system that generates electricity by using ocean wave energy for an intelligent fish farm.** 
+### **space**
 - Design the electricity generating system with ocean wave energy to power the intelligent fish farm.
 - Design the Power Take-Off System for the fish farm and Built the Power Take-Off System scale down version for prototype.
