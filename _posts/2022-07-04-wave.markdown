@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-Reactive Marine Energy Converter to Power Ocean Aquaculture"
 time: "Aug. 2020 – May. 2021"
-image: /images/sea_1.png
+image: images/space_gif.gif
 background: "http://seb199.me.vt.edu/zuo/research-programs/"
 authors: "Energy Harvesting and Mechatronics Research Laboratory"
 categories: research
