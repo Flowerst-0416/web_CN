@@ -9,12 +9,5 @@ poster: "/pdfs/Poster.pdf"
 ---
 **This project aimed to designed and build the Stewart Platform — the parallel robots capable of high-precision manipulation to assemble the structure automatically in uncertain environments (e.g. the lunar or Martian surface) by collaborative robotic agents.**
 
-**Design work:**
-- Determined customer needs, engineering characteristics, and target specifications. Studied the robot control theory and program for the linear actuator. Do the concept selection to select the best design of the product and analysis the RAMP for the possible risk of the product.
-- Designed the Assembly Environment of the infrastructure in order to test the Stewart platform prototype which will involve the design of truss-like structures capable of housing sensors, solar panels, communication equipment.
-- Design the Stewart platform with high linear and angular precision by using PID control. The design needs to be capable of maintaining position while subject to relevant loading conditions and be equipped with a mechanism that allows for the secure and reliable stacking of up to four Stewart platform.
-
-**Technical Work:**
-- Contributed to the Electronic sub-team study at the control theory of the Stewart Platform. Use C++ to program the Stewart Platform and make the Stewart platform have an angular precision of fewer than 0.25 degrees.
-- Simulated the movement and force provided by the Stewart Platform by MATLAB Simulink. Using two different models and output the video result for demonstrating and data result for future calculation.
-- Further work: Use the MATLAB model to analyze the movement of the Stewart Platform. Adjust the PID value for each linear actuator. Build the Stewart platform prototype base on the Inventor CAD model, MATLAB result and Customer need.
+- Designed the Stewart Platform — the parallel robots capable of high-precision manipulation
+- Build a closed-loop control system for position calibration using vision sensors
