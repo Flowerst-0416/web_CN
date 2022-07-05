@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Balto and Togo, Four-Legged Robot Locomotion Project"
+time:   "Jan. 2019 – Apr.2020"
+image: images/four_leg.jpg
+categories: research
+background: "https://www.kavehakbarihamed.com/"
+authors: "Hybrid Dynamic Systems and Robot Locomotion (HDSRL) Laboratory"
+---
+**This project aimed to design and build a quadruped dog shape robot to complete rescue missions in dangerous environments.**
+
+- Added swerve drive modules at the joints of the Legged robot to improve the mobility of the robot
+- Design the experimental environment and assist in completing the robot test
