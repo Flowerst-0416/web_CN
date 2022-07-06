@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Boeing Addtive "
+time:   "Aug. 2020 – May. 2021"
+image: images/jcdl2019.png
+categories: research
+author: "Leo Keselman"
+authors: "<strong>Leonid Keselman</strong>"
+venue: "ACM/IEEE Joint Conference on Digital Libraries"
+arxiv: https://arxiv.org/abs/1904.12573
+poster: /pdfs/jcdl2019.pdf
+
+---
+**This project aim to design a system that combine advanced sense capability and plan to conventional manufacturing techniques.**
+- Designed the end-effectors that incorporate the additive manufacturing process and install it on the Universal Robots Arm.
+- Developed a fixed multi-arm platform with additive and inspection end effector to apply in the hybrid manufacturing process.
+- Built a “3D copier” system based on the fixed multi-arm platform
