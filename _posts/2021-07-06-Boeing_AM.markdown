@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Boeing Addtive "
+title:  "Boeing Addtive manufacturing"
 time:   "Aug. 2020 – May. 2021"
-image: images/jcdl2019.png
+image: images/Boeing_AM.jpg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>"
-venue: "ACM/IEEE Joint Conference on Digital Libraries"
-arxiv: https://arxiv.org/abs/1904.12573
-poster: /pdfs/jcdl2019.pdf
-
+authors: "Biorobotics Lab, Carnegie Mellon University"
+video: "https://drive.google.com/file/d/1HMNci6fRbC42x_stVa5gN7xq2RlX9AQz/view?usp=sharing"
 ---
 **This project aim to design a system that combine advanced sense capability and plan to conventional manufacturing techniques.**
 - Designed the end-effectors that incorporate the additive manufacturing process and install it on the Universal Robots Arm.
