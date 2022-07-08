@@ -2,7 +2,7 @@
 layout: post
 title:  "In-situ multimodal inspection technique for Robotic Wire Arc Additive Manufacturing (rWAAM)"
 time:   "May. 2021 – Present"
-image: images/Boeing_AM.jpg
+image: images/WAAM.jpg
 categories: research
 authors: "Biorobotics Lab & Manufacturing Futures Institute, Carnegie Mellon University"
 background: "https://engineering.cmu.edu/mfi/mill19/equipment-details/lincoln-electric-sculptprint-rnd.html"
