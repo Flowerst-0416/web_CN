@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boeing Addtive manufacturing"
+title:  "Boeing Addtive Manufacturing"
 time:   "Aug. 2020 – May. 2021"
 image: images/Boeing_AM.jpg
 categories: research
