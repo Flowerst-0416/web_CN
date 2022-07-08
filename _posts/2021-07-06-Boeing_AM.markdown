@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Boeing Addtive Manufacturing"
-time:   "Aug. 2020 – May. 2021"
+time:   "Aug. 2021 – Present"
 image: images/Boeing_AM.jpg
 categories: research
 authors: "Biorobotics Lab, Carnegie Mellon University"
