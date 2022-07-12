@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Robotics Competition Founding"
+time:   "Aug. 2020 – May. 2021"
+image: images/MakeX.jpg
+categories: Internships
+background: "https://www.makex.cc/en"
+authors: "Makeblock"
+Duty: "Advisor & Competition R&D intern& Operational intern"
+---
+- The solution helped to increase the business scale by 35 times in two years (the third in the world in business), the company's largest revenue growth point, with an annual sale of 50 million.
+- Design competition topic base on students' level and needs, and design the robots to verify the topic
+- Speaking as an advisor about American robot competitions, such as: team management, community building, competition management
