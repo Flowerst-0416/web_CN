@@ -4,7 +4,7 @@ title:  "科技教育创业"
 time:   "2019.09 – 至今"
 image: images/NI.jpg
 categories: Internships
-background: thinkredsharing.com
+background: "https://thinkredsharing.com"
 authors: "深圳市英诺威迅科技教育有限公司"
 Duty: "创始人&CEO"
 ---
