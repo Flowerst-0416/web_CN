@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Robotics Competition Founding"
-time:   "Aug. 2020 – May. 2021"
+title:  "MAKEX机器人大赛初创"
+time:   "2020.08 – 2021.05"
 image: images/MakeX.jpg
 categories: Internships
-background: "https://www.makex.cc/en"
-authors: "Makeblock"
-Duty: "Advisor & Competition R&D intern& Operational intern"
+background: "https://www.makex.cc/"
+authors: "Makeblock 童心制物"
+Duty: "顾问/运营，工程实习生"
 ---
-- The solution helped to increase the business scale by 35 times in two years (the third in the world in business), the company's largest revenue growth point, with an annual sale of 50 million.
-- Design competition topic base on students' level and needs, and design the robots to verify the topic
-- Speaking as an advisor about American robot competitions, such as: team management, community building, competition management
+- 方案助力业务规模两年 35 倍增长（业务全球第 3 ），公司最大营收增长点，年销售额 5 千万量级
+- 根据学生水平和需求设计 比赛赛 题 并 设计参赛机器人验证赛题可行 性
+- 作为 顾问 演讲关于国外机器人竞赛 FRC 相关信息，如：队伍管理，社 区 搭建形式，比赛管理形式
