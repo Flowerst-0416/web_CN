@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "In-situ multimodal inspection technique for Robotic Wire Arc Additive Manufacturing (rWAAM)"
-time:   "May. 2021 – Present"
+title:  "电弧增材制造(rWAAM)"
+time:   "2021.11 – 至今"
 image: images/WAAM.jpg
 categories: research
 authors: "Biorobotics Lab & Manufacturing Futures Institute, Carnegie Mellon University"
 background: "https://engineering.cmu.edu/mfi/mill19/equipment-details/lincoln-electric-sculptprint-rnd.html"
 ---
-**This project aim to add the sensing system to a Robotic Wire Arc Additive Manufacturing (rWAAM) robot and do the real time motion adjustment base on the sensor feedback.**
-- Design the sensing system in the Lincoln Electric arc metal 3D printer for closed-loop control
+**该项目旨在将传感系统添加到机器人电弧增材制造（rWAAM）机器人中，并根据传感器反馈进行实时运动调整。**
+- 设计电弧金属3D打印机的实时闭环控制解决方案以提升金属打印质量和打印耗材成本
+- 设计（基于UR5e）高速吐出3D打印系统以模拟金属打印吐出

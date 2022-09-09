@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Self-Reactive Marine Energy Converter to Power Ocean Aquaculture"
-time: "Aug. 2020 – May. 2021"
+title:  "自反应海洋能量转换器为海洋水产养殖提供动力项目"
+time: "2020.08 – 2021.05"
 image: images/sea_1.png
 background: "http://seb199.me.vt.edu/zuo/research-programs/"
 authors: "Energy Harvesting and Mechatronics Research Laboratory"
 categories: research
 ---
-**This project aimed to design a system that generates electricity by using ocean wave energy for an intelligent fish farm.** 
-- Design the electricity generating system with ocean wave energy to power the intelligent fish farm.
-- Design the Power Take-Off System for the fish farm and Built the Power Take-Off System scale down version for prototype.
+**该项目旨在为智能养鱼场设计一个利用潮汐能量发电的系统。** 
+- 设计潮汐自发电系统用于海洋养殖并制作出缩小版模型并测试
+- 根据市场调研与实际测试得出低成本的并且高耐久度的发电系统解决方案
 
 #### **Publication:**
 A self-reactive ocean wave energy converter with winch-based power take-off: design, prototype, and experimental evaluation -IDETC 2022

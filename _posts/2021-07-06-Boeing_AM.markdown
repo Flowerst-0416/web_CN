@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Boeing Addtive Manufacturing"
-time:   "Aug. 2021 – Present"
+title:  "波音增材加工项目"
+time:   "2021.08 – 至今"
 image: images/Boeing_AM.jpg
 categories: research
 authors: "Biorobotics Lab, Carnegie Mellon University"
 video: "https://drive.google.com/file/d/1HMNci6fRbC42x_stVa5gN7xq2RlX9AQz/view?usp=sharing"
 ---
-**This project aim to design a system that combine advanced sense capability and plan to conventional manufacturing techniques.**
-- Designed the end-effectors that incorporate the additive manufacturing process and install it on the Universal Robots Arm.
-- Developed a fixed multi-arm platform with additive and inspection end effector to apply in the hybrid manufacturing process.
-- Built a “3D copier” system based on the fixed multi-arm platform
+**该项目旨在设计一个将先进的传感能力和计划与传统制造技术相结合的系统。**
+- 开发带有增材，减材加工与激光扫描仪末端执行器的多机械系统用于飞机检修
+- 基于多机械平台开发3D复印与修复系统，用于智能管道焊接，混合加工的解决方案
+- 构建双机械臂系统模拟环境实现路径覆盖规划与实时视觉反馈运用于飞机（波音787）喷绘
+- 构建自主研发的机械臂3D 扫描仪校准工具系统以进行快速省力地进行手眼，摄像机外参校准和激光校准
