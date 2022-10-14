@@ -5,6 +5,7 @@ time:   "2021.08 – 至今"
 image: images/Boeing_AM.jpg
 categories: research
 authors: "Biorobotics Lab, Carnegie Mellon University"
+poster: "pdfs/AM_Poster.pdf"
 video: "https://drive.google.com/file/d/1HMNci6fRbC42x_stVa5gN7xq2RlX9AQz/view?usp=sharing"
 ---
 **该项目旨在设计一个将先进的传感能力和计划与传统制造技术相结合的系统。**

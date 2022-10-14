@@ -3,7 +3,7 @@ layout: post
 title:  "自反应海洋能量转换器为海洋水产养殖提供动力项目"
 time: "2020.08 – 2021.05"
 image: images/sea_1.png
-poster: "/pdfs/energy.pdf"
+poster: "/pdfs/Energy.pdf"
 background: "http://seb199.me.vt.edu/zuo/research-programs/"
 authors: "Energy Harvesting and Mechatronics Research Laboratory"
 categories: research
