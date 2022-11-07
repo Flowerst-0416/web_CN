@@ -6,6 +6,7 @@ image: images/WAAM.jpg
 categories: research
 news: "https://www.cmu.edu/news/stories/archives/2022/january/biden-visits-mill-19.html"
 authors: "Biorobotics Lab & Manufacturing Futures Institute, Carnegie Mellon University"
+poster: "pdfs/MFI.pdf"
 background: "https://engineering.cmu.edu/mfi/mill19/equipment-details/lincoln-electric-sculptprint-rnd.html"
 ---
 **该项目旨在将传感系统添加到机器人电弧增材制造（rWAAM）机器人中，并根据传感器反馈进行实时运动调整。**
