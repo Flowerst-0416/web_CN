@@ -6,7 +6,7 @@ image: images/Boeing_AM.jpg
 categories: research
 authors: "Biorobotics Lab, Carnegie Mellon University"
 poster: "pdfs/AM_Poster.pdf"
-video: "https://drive.google.com/file/d/1HMNci6fRbC42x_stVa5gN7xq2RlX9AQz/view?usp=sharing"
+video: "Video/Boeing_video.mp4"
 ---
 **该项目旨在设计一个将先进的传感能力和计划与传统制造技术相结合的系统。**
 - 开发带有增材，减材加工与激光扫描仪末端执行器的多机械系统用于飞机检修
