@@ -13,5 +13,4 @@ categories: research
 - 根据市场调研与实际测试得出低成本的并且高耐久度的发电系统解决方案
 
 **Publication:**
-
 A self-reactive ocean wave energy converter with winch-based power take-off: design, prototype, and experimental evaluation -IDETC 2022
