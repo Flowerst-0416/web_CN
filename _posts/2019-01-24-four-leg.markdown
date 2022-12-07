@@ -6,7 +6,7 @@ image: images/four_leg.jpg
 categories: research
 background: "https://www.kavehakbarihamed.com/"
 authors: "Hybrid Dynamic Systems and Robot Locomotion Lab"
-keyword: <img src="https://img.shields.io/badge/-CAD-blue" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-机械设计-blue" alt="机械设计"/>
+keyword: <img src="https://img.shields.io/badge/-CAD-yellow" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-机械设计-yellow" alt="机械设计"/>
 ---
 **该项目旨在设计和建造一个四足犬形机器人，以在危险环境中完成救援任务。**
 
