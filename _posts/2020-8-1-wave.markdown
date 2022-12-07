@@ -7,6 +7,7 @@ background: "http://seb199.me.vt.edu/zuo/research-programs/"
 paper: "pdfs/Energy.pdf"
 authors: "Energy Harvesting and Mechatronics Research Laboratory"
 categories: research
+keyword: <img src="https://img.shields.io/badge/-Solidworks-yellow"/>&nbsp;<img src="https://img.shields.io/badge/-大型器械制造-yellow"/>&nbsp;<img src="https://img.shields.io/badge/-海洋发电-orange"/>
 ---
 **该项目旨在为智能养鱼场设计一个利用潮汐能量发电的系统。** 
 - 设计潮汐自发电系统用于海洋养殖并制作出缩小版模型并测试
