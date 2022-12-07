@@ -71,6 +71,10 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
+              {% if post.keyword %}
+                  {{post.keyword}}  
+              {% endif %}
+              <br>
               {{post.authors}}
               <br>
               <em>{{post.time}}</em>
