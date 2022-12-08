@@ -2,7 +2,7 @@
 layout: post
 title:  "基于机械臂的相机校准工具箱"
 time:   "2022.10 – 2022.12"
-image: images/int_motion.gif
+image: Flowerst-0416/web_CN/_site/images/int_motion.gif
 categories: project
 authors: "Fujun Ruan & Yuchen Wu, Siyu Zhou"
 poster: "pdfs/24678.pdf"
