@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "基于机械臂的相机校准工具箱"
+time:   "2022.10 – 2022.12"
+image: images/int_motion.gif
+categories: project
+authors: "Fujun Ruan & Yuchen Wu, Siyu Zhou"
+poster: "pdfs/24678.pdf"
+code: "https://github.com/Flowerst-0416/UR_arm_camera_calibration"
+keyword: <img src="https://img.shields.io/badge/-Python-blue" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-C++-blue" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-UR5e-yellow" alt="机械设计"/>&nbsp;<img src="https://img.shields.io/badge/-ROS-red"/>&nbsp;<img src="https://img.shields.io/badge/-相机校准-orange"/>
+---
+**该项目旨在搭建一个基于机械臂控制的相机校准工具箱**
+- 搭建一个可以提高校准效率和准确性的工具箱
+- 使用机械臂根据校准类型规划校准路径以提供高质量的校准样品
+- 为已结束的校准过程，提供检验方法以实现快速验证
+- 校准类型包括：相机内参校准，手眼校准，激光外参校准
