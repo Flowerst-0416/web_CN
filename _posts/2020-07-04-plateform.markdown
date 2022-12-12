@@ -7,7 +7,7 @@ categories: research
 background: "https://faser.me.vt.edu/projects.html"
 authors: "Field and Space Experimental Robotics (FASER) Laboratory"
 poster: "/pdfs/Poster.pdf"
-video: "https://www.youtube.com/watch?v=Pu3SE3M_3R0&t=22s"
+video: "Video/plat.mp4"
 keyword: <img src="https://img.shields.io/badge/-MATLAB-blue"/>&nbsp;<img src="https://img.shields.io/badge/-机械设计-yellow"/>&nbsp;<img src="https://img.shields.io/badge/-OpenCV-red"/>
 ---
 **该项目旨在设计和建造斯图尔特平台——平行机器人能够通过协作来代理人类在不确定的环境（例如月球或火星表面）中自动组装结构。**
