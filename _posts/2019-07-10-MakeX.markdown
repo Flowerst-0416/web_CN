@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MAKEX机器人大赛初创"
-time:   "2020.08 – 2021.05"
+time:   "2019.06 – 2019.08"
 image: images/MakeX.jpg
 categories: Internships
 background: "https://www.makex.cc/"
