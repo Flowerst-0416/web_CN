@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "受鸵鸟肌腱启发的被动能量回收设计"
+time:   "2023.01 – 2023.04"
+image: images/LEG.png
+categories: project
+news: pdfs/LEG_poposal.pdf
+authors: "Jiarui Chang, Mukul Ganwal, Fujun Ruan, Zhenghao Weng, Zixin Zhang"
+keyword: <img src="https://img.shields.io/badge/-机械设计-yellow" alt="CAD"/>&nbsp;<img src="https://img.shields.io/badge/-项目管理-red"/>&nbsp;
+---
+**该项目旨在设计被动弹性结构帮助足式机器人在跳跃的过程中节省能量**
+- 为足式机器人设计被动机构节省能量
+- 管理项目进度并且协调各组任务关系
+- 管理项目资金，合理与公司谈判拿到赞助
+
