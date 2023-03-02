@@ -10,8 +10,8 @@ categories: research
 keyword: <img src="https://img.shields.io/badge/-Solidworks-yellow"/>&nbsp;<img src="https://img.shields.io/badge/-大型器械制造-yellow"/>&nbsp;<img src="https://img.shields.io/badge/-海洋发电-orange"/>
 ---
 **该项目旨在为智能养鱼场设计一个利用潮汐能量发电的系统。** 
+- 论文发表 A Self-Reactive Ocean Wave Energy Converter With Winch-Based Power Take-Off: Design, Prototype, and Experimental Evaluation -IDETC 2022
 - 设计潮汐自发电系统用于海洋养殖并制作出缩小版模型并测试
 - 根据市场调研与实际测试得出低成本的并且高耐久度的发电系统解决方案
 
-**Publication:**
-A self-reactive ocean wave energy converter with winch-based power take-off: design, prototype, and experimental evaluation -IDETC 2022
+
