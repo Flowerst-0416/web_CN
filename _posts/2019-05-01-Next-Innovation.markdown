@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "科技教育创业"
-time:   "2019.09 – 至今"
+time:   "2019.09 – 2023.05"
 image: images/NI.jpg
 categories: Internships
 background: "https://nifornextinnovation.com"
